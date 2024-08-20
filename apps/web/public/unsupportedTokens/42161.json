@@ -1,0 +1,23 @@
+{
+    "name": "Duckstail",
+    "timestamp": "2023-05-11T20:23:09.284Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 25
+    },
+    "logoURI": "/images/1/tokens/nebula.png",
+    "keywords": [
+      "defi"
+    ],
+    "tokens": [
+      {
+        "name": "Duckstail Token",
+        "symbol": "DKO",
+        "address": "0x05dBe925606d1B0B3fC939FD6273036a89CD71F1",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "/images/1/tokens/0x05dBe925606d1B0B3fC939FD6273036a89CD71F1.png"
+      }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "CoinGecko",
+  "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
+  "keywords": [
+      "defi"
+  ],
+  "timestamp": "2023-10-25T16:40:23.761+00:00",
+  "tokens": [
+    {
+      "name": "Duckstail Token",
+      "symbol": "DKO",
+      "address": "0x05dBe925606d1B0B3fC939FD6273036a89CD71F1",
+      "logoURI": "https://duckstail-frontend-web.vercel.app/images/42161/tokens/0x05dBe925606d1B0B3fC939FD6273036a89CD71F1.png",
+      "chainId": 42161,
+      "decimals": 18
+    },
+    {
+      "name": "Duckstail Capital",
+      "symbol": "DCP",
+      "address": "0xdd5D2Ba8b84AA4E145efC3D055fD0e75bcB9E28c",
+      "logoURI": "https://duckstail-frontend-web.vercel.app/images/42161/tokens/0xdd5D2Ba8b84AA4E145efC3D055fD0e75bcB9E28c.png",
+      "chainId": 42161,
+      "decimals": 9
+    }
+  ],
+  "version": {
+      "major": 20,
+      "minor": 2,
+      "patch": 0
+  }
+}
